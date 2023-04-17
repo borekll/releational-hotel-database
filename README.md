@@ -1,1 +1,0 @@
-# releational-hotel-database
